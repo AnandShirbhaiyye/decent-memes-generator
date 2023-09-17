@@ -8,7 +8,7 @@ export default function Navbar() {
                 <img src={MemeImg} alt="trollface-logo" className="nav-logo"/>
                 <h1>MemeGenerator</h1>
             </div>
-            <h2 className="nav-subtitle">Anand Shirbhaiyye (RTC)</h2>
+            <h2 className="nav-subtitle">Anand Shirbhaiyye (RTC💛💜🧡)</h2>
         </nav>
     )
 }
