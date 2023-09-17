@@ -3,7 +3,27 @@ import './Meme.css';
 
 function Meme() {
   return (
-    <div>Meme</div>
+    <>
+            <div className="meme-container">
+                <input
+                    type="text"
+                    placeholder="Top text"
+                    className="meme-input"
+                    name="topText"
+                />
+                <input
+                    type="text"
+                    placeholder="Bottom text"
+                    className="meme-input"
+                    name="bottomText"
+                />
+                <button
+                    className="meme-button"
+                >
+                    Get a new meme image
+                </button>
+            </div>
+    </>
   )
 }
 

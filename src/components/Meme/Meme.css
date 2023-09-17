@@ -1,0 +1,25 @@
+.meme-container {
+    display: grid;
+    gap: 1rem;
+    max-width: 1000px;
+    margin-inline: auto;
+    margin-top: 20px;
+  }
+
+  .meme-input {
+    border: 1px solid #D5D4D8;
+    border-radius: 5px;
+    min-height: 35px;
+  }
+  
+  .meme-button {
+    margin-bottom: 1rem;
+    background: linear-gradient(90.41deg, #888d1f 1.14%, #0f66ca 100%);
+    border-radius: 5px;
+    border-width: 0;
+    min-height: 40px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.0em;
+  }
