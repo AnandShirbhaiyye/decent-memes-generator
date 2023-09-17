@@ -1,10 +1,14 @@
-import React from 'react';
 import './Navbar.css';
+import MemeImg from './mem.jpg'
 
-function Navbar() {
-  return (
-    <div>Navbar</div>
-  )
+export default function Navbar() {
+    return (
+        <nav>
+            <div className="nav-title">
+                <img src={MemeImg} alt="trollface-logo" className="nav-logo"/>
+                <h1>MemeGenerator</h1>
+            </div>
+            <h2 className="nav-subtitle">Anand Shirbhaiyye (RTC)</h2>
+        </nav>
+    )
 }
-
-export default Navbar
