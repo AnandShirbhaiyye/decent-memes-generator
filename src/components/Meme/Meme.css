@@ -25,18 +25,18 @@
     cursor: pointer;
   }
 
-  .result--container {
+  .result-container {
     max-width: 1000px;
     margin-inline: auto;
     position: relative;
   }
   
-  .result--container img {
+  .result-container img {
     border-radius: 3px;
     width: 100%;
   }
   
-  .meme--text {
+  .meme-text {
     position: absolute;
     width: 80%;
     text-align: center;
