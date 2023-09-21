@@ -1,4 +1,4 @@
-# Decent-Meme-Generator🥳🙋‍♂️
+# Decent-Memes-Generator🥳🙋‍♂️
 
 ### A Decent Memes Generator is an online tool or app that allows users to create and customize humorous images (memes) by adding text and graphics to existing images or templates.⭐🤘
 
